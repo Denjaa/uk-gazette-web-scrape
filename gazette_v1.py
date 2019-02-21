@@ -1,8 +1,8 @@
-###############################
-##	Developer: Denis Morozov ##
-##	Date: 21 February 2019   ##
-##	Software: Python 3.6     ##
-###############################	
+############################
+##Developer: Denis Morozov##
+##Date: 21 February 2019  ##
+##Software: Python 3.6    ##
+############################	
 
 from lxml import html
 import lxml, lxml.html
