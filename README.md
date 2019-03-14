@@ -16,7 +16,7 @@ To run the script you would need Python 3.6 version.
 ## Commmand line:
 ```
 python gazette_v1.py
-``
+```
 
 
 Once that command is ran it automatically generates backup.csv and output.csv that the script requires.
